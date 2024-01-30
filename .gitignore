@@ -1,0 +1,68 @@
+# Ignore Node.js modules
+node_modules/
+pnpm-lock.yaml
+
+# Ignore pnpm store
+.pnpm-store/
+
+# Ignore build artifacts and output directories
+/.next/
+/build/
+/out/
+/.nyc_output/
+/.cache/
+/coverage/
+/tsconfig.tsbuildinfo
+
+# Ignore environment variables and secrets
+.env.local
+.env.*.local
+.env
+.env.build
+.env.production
+.env.development
+.env.test
+
+# Ignore logs and error output
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore Windows Thumbs.db files
+Thumbs.db
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore JetBrains IDE settings
+.idea/
+
+# Ignore package-lock.json for Yarn workspaces
+yarn.lock
+
+# Ignore Yarn 2 PnP file
+.pnp.*
+
+# Ignore build output for linters and transpilers
+/build/
+
+# Ignore .eslintcache
+.eslintcache/
+
+# Ignore Next.js development server cache
+/.next/cache/
+
+# Ignore Cypress.io videos, screenshots, and configs
+/cypress/videos/
+/cypress/screenshots/
+/cypress/config.json
+
+# Ignore test results
+/test-results/
+
+# Ignore .turbo directory for TurboRepo
+/.turbo/
