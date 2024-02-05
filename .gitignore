@@ -66,3 +66,5 @@ yarn.lock
 
 # Ignore .turbo directory for TurboRepo
 /.turbo/
+/apps/site/.next/
+/apps/app-search/.next/
