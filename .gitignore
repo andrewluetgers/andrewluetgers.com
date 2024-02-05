@@ -54,7 +54,7 @@ yarn.lock
 .eslintcache/
 
 # Ignore Next.js development server cache
-/.next/cache/
+/.next/
 
 # Ignore Cypress.io videos, screenshots, and configs
 /cypress/videos/

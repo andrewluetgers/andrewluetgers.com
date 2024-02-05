@@ -1,5 +1,5 @@
 {
-  "name": "app-search-turborepo",
+  "name": "andrewluetgers.com",
   "private": true,
   "scripts": {
     "build": "turbo build",
